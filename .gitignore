@@ -1,0 +1,13 @@
+data/*
+!data/.gitkeep
+
+duckdb/*
+!duckdb/.gitkeep
+
+outputs/*
+!outputs/.gitkeep
+
+ura_data/*
+!ura_data/.gitkeep
+
+logs.log
