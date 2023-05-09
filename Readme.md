@@ -28,8 +28,7 @@ homeprice_submission
 ├── environment.yml
 ├── ingestion.py
 ├── modelling.py
-├── Readme.md
-└── requirements.txt
+└── Readme.md
 ```
 
 At the root directory, run below command in Bash, to set up conda environment,
@@ -70,8 +69,7 @@ homeprice_submission
 ├── environment.yml
 ├── ingestion.py
 ├── modelling.py
-├── Readme.md
-└── requirements.txt
+└── Readme.md
 ```
 
 Execute python file for data ingestion,
