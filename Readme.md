@@ -1,6 +1,7 @@
 # Singapore Housing Price Prediction
 
 This repository maintain codes for generating prediction/insights by using data science techniques for housing market of Singapore
+To modify the content to make effect of the README change.
 
 ## Getting Started
 
